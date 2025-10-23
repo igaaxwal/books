@@ -1,0 +1,8 @@
+HarryPotter,JKRowling
+The Lord of the Rings,J R R Tolkien
+Clean Code,Robert C. Martin
+The Pragmatic Programmer,Andrew Hunt
+Effective Java,Joshua Bloch
+Design Patterns,Erich Gamma
+Refactoring,Martin Fowler
+Introduction to Algorithms,Thomas H. Cormen
