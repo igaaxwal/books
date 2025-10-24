@@ -8,5 +8,4 @@ borrower=Alice
 09 November 2025; Java Concurrency in Practice
 borrower=Bob
 10 November 2025; Head First Design Patterns
-borrower=
-10 November 2025; aaaaaaaa
+
