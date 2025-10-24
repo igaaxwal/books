@@ -1,8 +1,7 @@
 borrower=Iga
-05 November 2025; Clean Code      # duplicate → already borrowed by Iga, will be skipped
+05 November 2025; Clean Code  # duplicate → skipped
 06 November 2025; Clean Architecture
 borrower=Mark
-07 November 2025; Design Patterns  # duplicate → already borrowed by Mark, will be skipped
 08 November 2025; Refactoring 2nd Edition
 borrower=Alice
 09 November 2025; Java Concurrency in Practice
